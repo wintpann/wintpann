@@ -1,16 +1,27 @@
-## Hi there 👋
+# Pronto, i'm a frontend enjoyer 👋
 
-<!--
-**wintpann/wintpann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ☄️ Очень интересное чтиво ниже:
 
-Here are some ideas to get you started:
+### [🏄🏻 happybirthday](https://github.com/wintpann/happybirthday)
+Типо "консольная" игрушка, написана за 24 часа + 5 часов к ряду \
+https://happybirthday-three-gamma.vercel.app/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [🏄🏻 code-input-react](https://github.com/wintpann/code-input-react)
+Как по мне лучший код-инпут на npm \
+https://code-input-react.vercel.app/
+
+### [🏄🏻 storybox-react](https://github.com/wintpann/storybox-react)
+Типо сторибука только проще и удобнее \
+https://github.com/wintpann/storybox-react
+
+### [🏄🏻 rflow](https://github.com/wintpann/rflow)
+Уже 4 года в разработке православного подхода к управлению данными
+
+### [🏄🏻 remote-data-react-query](https://github.com/wintpann/remote-data-react-query)
+Тянем жсон с функциональным подходом (не тащить в прод, эксперименты!)
+
+### [🏄🏻 todolist-backend](https://github.com/wintpann/todolist-backend)
+Бэк для тудулиста на ноде с локальной базой в виде жсон файла
+
+### [🏄🏻 react-draggable-window](https://github.com/wintpann/react-draggable-window)
+Окошко, красивое
