@@ -13,3 +13,7 @@ https://code-input-react.vercel.app/
 ### [🏄🏻 storybox-react](https://github.com/wintpann/storybox-react)
 Мини сторибук для локальных нужд \
 https://storybox-react.vercel.app/
+
+### [🏄🏻 roland-msg](https://github.com/wintpann/roland-msg)
+MusicToText Decoder (file example: https://raw.githubusercontent.com/wintpann/coolstuff/main/dasha.gp) \
+https://roland-msg.vercel.app/
